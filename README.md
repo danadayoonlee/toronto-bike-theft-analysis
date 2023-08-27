@@ -60,3 +60,35 @@ provide descriptions & types, ranges and values of elements as appropriate.
 | Long | Latitude of point extracted after offsetting X and &<br> Coordinates to nearest intersection node | 21 |
 
 ## Data Insights & Visualizations
+### Pie Chart
+<img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/pie_chart_toronto_bike_status.PNG" width="500">
+
+### Map
+<img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/map_chart_toronto_bike_status.PNG" width="800">
+
+### Location
+<p float="left">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Top5_Dangerous_Division.png" width="500">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Top5_Safe_Division.png" width="500">
+</p>
+<p float="left">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Top10_Dangerous_Neighborhood.png" width="500">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Top10_Safe_Neighborhood.png" width="500">
+</p>
+<img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Premise_Type and Stolen.png" width="500">
+
+### Time
+<p float="left">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Occurrence_Year and Stolen.png" width="500">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Occurrence_Month and Stolen.png" width="500">
+</p>
+<p float="left">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Occurrence_Day of Week and Stolen.png" width="500">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Occurrence_Hour of a Day and Stolen.png" width="500">
+</p>
+
+### Bike
+<p float="left">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Bike_Make and Stolen.png" width="500">
+    <img src="https://github.com/danadayoonlee/toronto-bike-theft-analysis/blob/main/Bike_Colour and Stolen.png" width="500">
+</p>
