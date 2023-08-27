@@ -5,7 +5,7 @@ This project is conducted for public safety and awareness from local bicycle the
 It helps people to analyze whether a stolen bicycle will be returned or not.<br><br>
 Toronto police will be able to further strengthen their solutions to prevent theft in certain areas, and residents will be extra careful and seek preventive measures such as anti-theft locks.<br>
 Therefore, this will gradually reduce the number of bicycle theft cases.<br><br>
-This analysis is based on the open data provided by [Toronto government and police](https://data.torontopolice.on.ca/datasets/bicycle-thefts).
+This analysis is based on the open data provided by [Toronto government and police](https://data.torontopolice.on.ca/pages/open-data).
 
 ## Activities
 
